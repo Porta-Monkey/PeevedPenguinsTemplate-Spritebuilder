@@ -188,36 +188,62 @@
 											<real>0.0</real>
 										</array>
 										<array>
-											<real>0.0</real>
-											<real>177</real>
+											<real>-1</real>
+											<real>132.5</real>
 										</array>
 										<array>
-											<real>42</real>
-											<real>177</real>
+											<real>37</real>
+											<real>179.5</real>
 										</array>
 										<array>
-											<real>42</real>
-											<real>0.0</real>
+											<real>37</real>
+											<real>105.5</real>
+										</array>
+										<array>
+											<real>16</real>
+											<real>110.5</real>
+										</array>
+										<array>
+											<real>17</real>
+											<real>-0.5</real>
 										</array>
 									</array>
 									<key>polygons</key>
 									<array>
 										<array>
 											<array>
-												<real>42</real>
-												<real>0.0</real>
-											</array>
-											<array>
-												<real>42</real>
-												<real>177</real>
-											</array>
-											<array>
-												<real>0.0</real>
-												<real>177</real>
+												<real>-1</real>
+												<real>132.5</real>
 											</array>
 											<array>
 												<real>0.0</real>
 												<real>0.0</real>
+											</array>
+											<array>
+												<real>17</real>
+												<real>-0.5</real>
+											</array>
+											<array>
+												<real>16</real>
+												<real>110.5</real>
+											</array>
+										</array>
+										<array>
+											<array>
+												<real>16</real>
+												<real>110.5</real>
+											</array>
+											<array>
+												<real>37</real>
+												<real>105.5</real>
+											</array>
+											<array>
+												<real>37</real>
+												<real>179.5</real>
+											</array>
+											<array>
+												<real>-1</real>
+												<real>132.5</real>
 											</array>
 										</array>
 									</array>
